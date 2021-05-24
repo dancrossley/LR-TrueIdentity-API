@@ -1,2 +1,0 @@
-{"friendlyName":"Abc Cbad","accounts":[{"nameFirst":"Abc","nameLast":"Cba","identifiers":[{"identifierType":"Login","value":"abc.cba"}]}]}
-{"friendlyName":"Zxc Cxz","accounts":[{"nameFirst":"Zxc","nameLast":"Cxz","identifiers":[{"identifierType":"Login","value":"Zxc.Cxz"}]}]}
